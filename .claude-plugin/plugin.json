@@ -1,0 +1,21 @@
+{
+  "name": "mempenny",
+  "description": "One memory, every AI. Shared memory management for all your coding agents — organized, lean, and reversible.",
+  "version": "1.7.0",
+  "author": {
+    "name": "Marcelo Paniza",
+    "url": "https://github.com/marcelopaniza"
+  },
+  "homepage": "https://github.com/marcelopaniza/mempenny",
+  "repository": "https://github.com/marcelopaniza/mempenny",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "auto-memory",
+    "context",
+    "tokens",
+    "productivity",
+    "hygiene",
+    "triage"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mempenny",
+  "description": "One memory, every AI. Shared memory management for all your coding agents — organized, lean, and reversible.",
+  "owner": {
+    "name": "Marcelo Paniza",
+    "url": "https://github.com/marcelopaniza"
+  },
+  "plugins": [
+    {
+      "name": "mempenny",
+  "description": "One memory, every AI. Shared memory management for all your coding agents — organized, lean, and reversible.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
